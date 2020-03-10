@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\КОНВЕРТЕР\bin\Debug\КОНВЕРТЕР.exe.config
+C:\Users\Denis\source\repos\КОНВЕРТЕР\bin\Debug\КОНВЕРТЕР.exe
+C:\Users\Denis\source\repos\КОНВЕРТЕР\bin\Debug\КОНВЕРТЕР.pdb
+C:\Users\Denis\source\repos\КОНВЕРТЕР\obj\Debug\КОНВЕРТЕР.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\КОНВЕРТЕР\obj\Debug\КОНВЕРТЕР.Form1.resources
+C:\Users\Denis\source\repos\КОНВЕРТЕР\obj\Debug\КОНВЕРТЕР.Properties.Resources.resources
+C:\Users\Denis\source\repos\КОНВЕРТЕР\obj\Debug\КОНВЕРТЕР.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\КОНВЕРТЕР\obj\Debug\КОНВЕРТЕР.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\КОНВЕРТЕР\obj\Debug\КОНВЕРТЕР.exe
+C:\Users\Denis\source\repos\КОНВЕРТЕР\obj\Debug\КОНВЕРТЕР.pdb

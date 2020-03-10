@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\bin\Debug\__КАЛЬКУЛЯТОР__.exe.config
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\bin\Debug\__КАЛЬКУЛЯТОР__.exe
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\bin\Debug\__КАЛЬКУЛЯТОР__.pdb
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\obj\Debug\__КАЛЬКУЛЯТОР__.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\obj\Debug\__КАЛЬКУЛЯТОР__.Form1.resources
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\obj\Debug\__КАЛЬКУЛЯТОР__.Properties.Resources.resources
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\obj\Debug\__КАЛЬКУЛЯТОР__.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\obj\Debug\__КАЛЬКУЛЯТОР__.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\obj\Debug\__КАЛЬКУЛЯТОР__.exe
+C:\Users\Denis\source\repos\__КАЛЬКУЛЯТОР__\obj\Debug\__КАЛЬКУЛЯТОР__.pdb
