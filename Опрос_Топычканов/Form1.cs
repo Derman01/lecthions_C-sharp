@@ -150,7 +150,7 @@ namespace Опрос
                 if (radioButton28.Checked) opros[k] = textBox5.Text;
             }//в какой районе живешь
 
-            var f = new StreamWriter( opros["ФИО"] + ".txt");
+            var f = new StreamWriter( "Опрос.txt", true);
             foreach (KeyValuePair<string, string> keyValue in opros)
             {
                 if (keyValue.Value != "")
